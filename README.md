@@ -55,7 +55,10 @@
 </div>  
 <br/>
 
-
+<div>
+<img height="50em" align="center" style="padding:30px;"src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
+</div>  
+<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
