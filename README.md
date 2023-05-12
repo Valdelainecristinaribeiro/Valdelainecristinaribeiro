@@ -34,7 +34,11 @@
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg"/>
-<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"/>   
+<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"/>
+<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
 </div>
 <br/>
 
@@ -44,6 +48,7 @@
 <div>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
 <img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
+
 </div>  
 <br/>
 
@@ -52,7 +57,9 @@
 <br/>
 <div>
 <img height="50em" align="center" style="padding:30px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
-<img height="50em" align="center" style="padding:30px;"src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
+<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+<img height="50em" align="center" style="padding:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"/>
 </div>  
 <br/>
 
